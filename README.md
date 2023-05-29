@@ -42,7 +42,7 @@ If you feel this work helpful, please cite our paper:
 ```
 
 ## Acknowledgement
-This repo contains modified codes from:
+This repository contains modified codes from:
 
 * [[MNAD](https://github.com/cvlab-yonsei/MNAD)]
 * [[MPN](https://github.com/ktr-hubrt/MPN)]
