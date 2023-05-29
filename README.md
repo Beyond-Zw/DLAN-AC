@@ -8,7 +8,7 @@ This repository is the official implementation of the ECCV 2022 paper "Dynamic L
 * PyTorch 1.9.0
 * Numpy
 * Sklearn
-* minisom （https://github.com/JustGlowing/minisom ）
+* minisom (https://github.com/JustGlowing/minisom)
 ## Datasets
 * USCD Ped2 [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
 * CUHK Avenue [[dataset](https://github.com/StevenLiuWen/ano_pred_cvpr2018)]
